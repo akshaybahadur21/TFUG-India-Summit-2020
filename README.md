@@ -6,7 +6,7 @@
 
 My session at TensorFlow User Group India Summit for humans 
 
-## [Slides]()
+## [Slides](https://docs.google.com/presentation/d/1Mhd5FPaJwXULwHBXc8Ua9HIUvYkt8Tn2-K2V-RatK4Q/edit?usp=sharing)
 ## [Registration](https://docs.google.com/forms/d/e/1FAIpQLSfwOWhx2aq7s55GVGE4L_joPCpvwCGvKPZnigvLalKW3LWMWQ/viewform)
 ## [Tweet](https://twitter.com/TFUGIndia/status/1296068291723538433)
 <img src = "https://pbs.twimg.com/media/EfyPPbkVAAAG0gp?format=jpg">
