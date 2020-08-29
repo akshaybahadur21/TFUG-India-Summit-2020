@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/Emojinator/blob/master/LICENSE.md)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
 
-[<img src = "https://tfug-india.web.app/img/home.c59408c4.png">](https://tfug.in/)
+[<img src = "https://scontent.fbom3-1.fna.fbcdn.net/v/t1.0-9/111691018_108038111008775_3441985673314394454_o.jpg?_nc_cat=109&_nc_sid=e3f864&_nc_ohc=8kHMbtSXhwQAX8fJyWv&_nc_ht=scontent.fbom3-1.fna&oh=e27ab909457cf5d7d697c1877025187e&oe=5F708DCA">](https://tfug.in/)
 
 My session at TensorFlow User Group India Summit for humans 
 
