@@ -10,4 +10,6 @@ My session at TensorFlow User Group India Summit for humans
 ## [Registration](https://docs.google.com/forms/d/e/1FAIpQLSfwOWhx2aq7s55GVGE4L_joPCpvwCGvKPZnigvLalKW3LWMWQ/viewform)
 ## [Tweet](https://twitter.com/TFUGIndia/status/1296068291723538433)
 <img src = "https://pbs.twimg.com/media/EfyPPbkVAAAG0gp?format=jpg">
+<img src = "https://github.com/akshaybahadur21/TFUG-India-Summit-2020/blob/master/speaker.png">
+<img src = "https://github.com/akshaybahadur21/TFUG-India-Summit-2020/blob/master/ticket.png">
 
